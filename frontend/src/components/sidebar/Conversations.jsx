@@ -5,7 +5,9 @@ const Conversations = () => {
         <div className="py-2 flex flex-col overflow-auto">
         <Conversation />
         <Conversation />
-        <conversation />
+        <Conversation />
+        <Conversation />
+        <Conversation />
         </div>
     );
 };
